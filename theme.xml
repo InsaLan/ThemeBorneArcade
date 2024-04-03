@@ -69,7 +69,7 @@ license:       creative commons CC-BY-NC-SA
          <customButtonIcon button="button_y_PS">./_inc/images/help-button-north.svg</customButtonIcon>
          <customButtonIcon button="button_y_switch">./_inc/images/help-button-west.svg</customButtonIcon>
          <customButtonIcon button="button_y_SNES">./_inc/images/help-button-north.svg</customButtonIcon>
-         <customButtonIcon button="thumbstick_click">./_inc/images/help-left-stick-click.svg</customButtonIcon>
+         <customButtonIcon button="thumbstick_click">./_inc/images/help-button-north.svg</customButtonIcon>
       </helpsystem>
       <image name="helpBackground">
          <origin>0 1</origin>
